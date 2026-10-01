@@ -32,3 +32,4 @@ print("\nTreating Coco")
 vet.treat(pet3, 25)
 
 print("\nCoco after treatment")
+vet.checkup(pet3)
